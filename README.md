@@ -2,8 +2,12 @@
 NAME : JINALI JAIN
 PRN : 1262243057
 FIGMA PROTOTYPE LINK : 
+
+
+
+
 https://www.figma.com/proto/NRv3xXOWrLnMYzB5RQ1hFh/Healthcare--%E2%80%94-Telemedicine-App-Prototype?node-id=3-10&starting-point-node-id=3%3A10&t=fnYnZwwurvagSeq5-1
-                                                                   OR
+                                                                 OR                     
                       https://www.figma.com/make/OPEK8q2QXiVWoWN8rU7YTh/Build-fully-functional-Healthcare--app?t=99p1YUMm0JE3eHXR-1
 
 
