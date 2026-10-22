@@ -1,0 +1,4 @@
+Uh, let's try a simple thing: imagine you want to consult a doctor online. Explore this website, and try to figure out how would you start a consultation. Uh, just speak your thoughts out loud. Tell me what you're looking for, and what you expect when you click something. And if you get stuck anywhere, uh, there are no right or wrong answers; just use it naturally. Then I'll ask you to try the same task on my Figma prototype.
+
+On the original website, the text is difficult to read, and the buttons are clearly not visible and noticeable. Some information is organized well, while other details may feel crowded. On the modified prototype, the layout looks clean and organized, and the headings, buttons, and spacing make information easier to understand. I would suggest improving the text size, colors, or spacing wherever necessary.
+

@@ -1,0 +1,4 @@
+Uh, first open Pharmacy and imagine that you need to consult a doctor online. Look around and see if you can find a doctor consultation option. If it's available, try to continue with the booking. While exploring, just tell me what you're thinking and whether anything is confusing or difficult to find. If you can't find an option, that's completely fine; I want to understand your actual experience. Then we'll do the same thing with my Figma prototype.
+
+On the original website, I'm trying to locate the appointment booking option and select an available date and time. The appointment slots look pretty clear, and I'm sure whether my selection has been made. And, um, on the modified prototype, the book appointment option and available slots are easy to identify. The booking process feels straightforward, and clearer confirmation messages could improve the experience.
+

@@ -1,0 +1,4 @@
+Uh, first, let's start up on 1MG. Imagine you need to consult a doctor online. Try to find the relevant options and see if you can proceed with booking an appointment. As you use it, please say your thoughts out loud. You can tell me what you're searching for, what you think will happen when you click something, or anything that feels confusing. Just, uh, just use the website as you normally do. After that, I'll show you my prototype and ask you to do the same task.
+
+While using the original website, I'm checking whether the text buttons and icons are easy to see and understand. The website feels trustworthy, and the feedback after clicking an option is very clear. On the modified prototype, the interface looks organized, and the text is very easy to read. I feel confident about the next step, and clearer confirmation or error messages could make the interface more accessible and reliable.
+

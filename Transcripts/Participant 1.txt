@@ -1,0 +1,4 @@
+I'll ask you to try a task on Tata 1MG. Imagine you need to consult a doctor online. Try to find a doctor, and book an appointment if that option is available. While you're using the website, please save whatever comes to your mind, like what you're looking for, what you think about, what you think a button will do, or if anything feels confusing. Don't worry about making mistakes; I'm testing the website, not you. After that, I'll show you my prototype and ask you to do the same thing. Is it okay if I record your voice so I can review your feedback later for my assignment?
+
+While using the original website, I'm trying to find the option to search for a doctor and book an appointment. The navigation is easy to understand, and I can identify the next step clearly. While using the modified Figma prototype, I find the doctor option very easy to locate. The navigation feels more organized, and I can understand the procedure of booking very easily.
+
